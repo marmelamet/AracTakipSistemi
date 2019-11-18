@@ -1,0 +1,68 @@
+﻿@model AracTakipSistemi.Models.Garages
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+
+<h4>Garages</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ID" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CityID" class="control-label"></label>
+                <input asp-for="CityID" class="form-control" />
+                <span asp-validation-for="CityID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Coord_X" class="control-label"></label>
+                <input asp-for="Coord_X" class="form-control" />
+                <span asp-validation-for="Coord_X" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Coord_Y" class="control-label"></label>
+                <input asp-for="Coord_Y" class="form-control" />
+                <span asp-validation-for="Coord_Y" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Convenience" class="control-label"></label>
+                <input asp-for="Convenience" class="form-control" />
+                <span asp-validation-for="Convenience" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\bin\Debug\netcoreapp2.0\AracTakipSistemi.deps.json
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\bin\Debug\netcoreapp2.0\AracTakipSistemi.runtimeconfig.json
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\bin\Debug\netcoreapp2.0\AracTakipSistemi.runtimeconfig.dev.json
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\bin\Debug\netcoreapp2.0\AracTakipSistemi.dll
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\bin\Debug\netcoreapp2.0\AracTakipSistemi.pdb
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.csprojResolveAssemblyReference.cache
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.AssemblyInfo.cs
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.dll
+C:\Users\asus\source\repos\AracTakipSistemi\AracTakipSistemi\obj\Debug\netcoreapp2.0\AracTakipSistemi.pdb
